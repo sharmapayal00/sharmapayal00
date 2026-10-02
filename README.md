@@ -1,16 +1,15 @@
-## Hi there 👋
+Hi, I'm Payal Sharma
 
-<!--
-**sharmapayal00/sharmapayal00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Aspiring Data Analyst
 
-Here are some ideas to get you started:
+I'm a BBA student passionate about turning data into meaningful insights and solving business problems through data analysis.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Skills & Tools
+SQL- Data querying,joins,aggregations,subqueries
+Python-Pandas,Matplotlib
+Excel- Data cleaning,Pivot Tables,Formulas
+Power Bi- Interactive dashboards,KPIS,Data visualization
+Tableau- Data visualization and dashboards
+AI- Basic AI tolls for data analysis and productivity
+
+
