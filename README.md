@@ -14,19 +14,16 @@ I'm a BBA student passionate about turning data into meaningful insights and sol
 - AI** - Basic AI tolls for data analysis and productivity
 
 ## Data Analytics Projects
-**E-commerce Customers & Product Analysis**
-SQL, Python,Pandas & Poer BI
-**Sales Dashboard**
-Excel & Power BI
-**Customer Churn Analysis**
-Data cleaning, SQL & Power BI
+- **E-commerce Customers & Product Analysis** - SQL, Python,Pandas & Poer BI
+- **Sales Dashboard** -Excel & Power BI 
+- **Customer Churn Analysis** - Data cleaning, SQL & Power BI
 
 ## Currently Learning
-**Advanced SQL**
-**Basic Statistics**
-**Python for Data Analysis**
-**Data Visualization**
-**Basic AI Tools for Data Analytics**
+- **Advanced SQL**
+- **Basic Statistics**
+- **Python for Data Analysis**
+- **Data Visualization**
+- **Basic AI Tools for Data Analytics**
 
 ## Career Goal
 I'm looking to start my career as a **Data Analyst** and contribute to data-driven business decisions while continuously improving my analytical and technical skills.
