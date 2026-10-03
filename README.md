@@ -11,7 +11,7 @@ I'm a BBA student passionate about turning data into meaningful insights and sol
 - **Excel** - Data cleaning,Pivot Tables,Formulas
 - **Power Bi** - Interactive dashboards,KPIS,Data visualization
 - **Tableau** - Data visualization and dashboards
-- AI** - Basic AI tolls for data analysis and productivity
+- **AI** - Basic AI tolls for data analysis and productivity
 
 ## Data Analytics Projects
 - **E-commerce Customers & Product Analysis** - SQL, Python,Pandas & Poer BI
